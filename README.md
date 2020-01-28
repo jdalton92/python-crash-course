@@ -1,31 +1,24 @@
-# Fullstack Open 2019
+# Python Crash Course 2019
 
-University of Helsinki Deep Dive into Web Development exercises
+Exercises from Python Crash Course (2nd Edition) by Eric Matthews
 
 ## Authors
 
 * **James Dalton**
 
 ## Problems completed with
-
-* [ReastJS](https://reactjs.org) - Frontend library
-* [NodeJS](https://nodejs.org) - Backend framework
-* [MongoDB (Atlas)](https://www.mongodb.com/cloud/atlas) - AWS cloud database
-* [Microsoft Visual Studio](https://code.visualstudio.com) - IDE
+* [matplotlib](https://matplotlib.org/) - Python 2D plotting library
+* [pygal](http://www.pygal.org/en/stable/) - Python charting library
+* [Django](https://www.djangoproject.com/) - Python Web Application Framework
+* [Geany](https://www.geany.org/) - Text editor 
 
 ## Problem Set Topics
 
-* **Part 0:** Fundamentals of Web apps
-* **Part 1:** Introduction to React
-* **Part 2:** Communicating with server
-* **Part 3:** Programming a server with NodeJS and Express
-* **Part 4:** Testing Express servers, user administration
-* **Part 5:** Testing React apps, custom hooks
-* **Part 6:** State management with Redux
-* **Part 7:** React router, styling app with CSS and webpack
-* **Part 8:** GraphQL
+* **Data Visualisation:** Data visualistation with matplotlib and pygal
+* **Django Web Application:** Note taking application with Django and SQLite
+* **PyGame Alien Invasion:** Alien invasion clone with pyGame
 
 ## Acknowledgments
 
-* Univserity of Helsinki
-* https://fullstackopen.com/en/
+* Python Crash Course - Eric Matthews
+* https://github.com/ehmatthes/pcc
